@@ -6,7 +6,7 @@ An interesting kind of number in mathematics is vampire number (Links to an exte
 
 A classic example is: 
 ```
-1260= 21 x 60.
+1260 = 21 x 60.
 ```
 
 A vampire number can have multiple distinct pairs of fangs. A vampire numbers with 2 pairs of fangs is:
